@@ -2,10 +2,10 @@
 #include<stdio.h>
 
 int main(){
-	//char def[9]="FATMACHO";
-	char def[9]="BESTRONG";
-	//char crypt[]="CUZVTWPXYGOPLLVVLJFRGRZBGU";
-	char crypt[]="KRLIJGMIWYMB[HWZPTMNZTTSCL";
+	char def[9]="FATMACHO";
+	//char def[9]="BESTRONG";
+	char crypt[]="CUZVTWPXYGOPLLVVLJFRGRZBGU";
+	//char crypt[]="KRLIJGMIWYMB[HWZPTMNZTTSCL";
 	int flag[26]={0};
 	for(int i=0;i<26;i++){
 		int k=0;
